@@ -1,0 +1,318 @@
+Pod	FriendlyName	Catalog	BankIdentifier	Name
+0	ORB Financial	AlkamiDemo	f27c87f0-d4e5-4bb2-bea7-c23f0a85739f	Alkami Financial
+0.1	ORB Financial PT	AlkamiPenTest2	f27c87f0-d4e5-4bb2-bea7-c23f0a85739f	ORB Financial PT
+0.2	Farm Credit Services of America	AlkamiFarmCSA	41a7b488-7874-4fde-b666-98affe76180e	Farm Credit Services of America
+0.2	Liberty Bank N.A.	AlkamiLibertyNA	8b0f8ffa-d6c2-4ccb-9d45-e83a79bdce94	LibertyNA
+0.3	ORB Training	AlkamiTraining	d90904e7-4c19-4cb5-b3e4-2d9c0a8862b2	Alpha Financial
+1	Arlington Community Federal Credit Union	AlkamiACFCU	4671446e-62f6-4f3b-8f25-74064c47953c	Arlington Community Federal Credit Union
+1	Coastline Federal Credit Union	AlkamiCoastline	c8413387-57b3-4664-be9a-bb4723b3b971	Coastline Federal Credit Union
+1	Connexus Credit Union	AlkamiConnexus	923420e7-e51a-4d93-929d-e7e0f20654f8	Connexus Credit Union
+1	Empower Federal Credit Union	AlkamiEmpower	2476afe2-184d-4d87-9311-6549de4af133	Empower Federal Credit Union
+1	Heritage Grove Federal Credit Union	AlkamiHeritageGrove	0caa073b-44f3-404b-b8ec-0293cc2d85cd	Heritage Grove Federal Credit Union
+1	Kane County Teachers Credit Union	AlkamiKane	67fd5dae-277c-460b-9fe4-cb5aa716c2b5	KCT
+1	Louisiana Federal Credit Union	AlkamiLFCU	ce5d4a01-2ccc-485f-8132-8544d1edec1e	Louisiana Federal Credit Union
+1	Mid-Minnesota Federal Credit Union	AlkamiMinnesota	4d8ea048-794b-41df-88fa-774866296ee8	MMFCU
+1	Quorum Federal Credit Union	AlkamiQuorum	39fe6bde-5e2a-4054-b229-c7c1f9f51cd7	Quorum Federal Credit Union
+1	Waterbury Connecticut Teachers Credit Union	AlkamiWTCU	a5a9731a-c3fd-4b72-94f6-e1a605376ff0	Waterbury CT Teachers Federal Credit Union
+1.1	Idaho Central Credit Union	AlkamiICCU	e6d119d9-48fc-4426-9c07-4a93bffa8838	Idaho Central Credit Union
+1.51	Advantis Credit Union	AlkamiAdvantis	afd76770-db8b-4375-9e91-c8daad7bc428	Rivermark
+1.52	Deseret First Federal Credit Union	AlkamiDeseret	413eb2ef-bdad-4d9a-abb9-18bd4442cd35	Deseret First Credit Union
+10	Bellco Credit Union	AlkamiOTSBellco	745d022f-1f35-4874-8188-5986745a0b55	Bellco Credit Union
+10	Bethpage Federal Credit Union	AlkamiOTSBethpage	aadfcdc4-c321-42ff-a0c9-00fc608d1e08	FourLeaf Federal Credit Union
+10	SECU Maryland	AlkamiOTSSECU	b0f8a768-b7f4-47a3-abdc-98e2174ada27	SECU
+10.0.1	Bellco Credit Union	AlkamiOTSBellco_PreProd	745d022f-1f35-4874-8188-5986745a0b55	Bellco Credit Union
+10.0.1	Bethpage Federal Credit Union	AlkamiOTSBethpage_PreProd	aadfcdc4-c321-42ff-a0c9-00fc608d1e08	Bethpage
+10.0.1	SECU Maryland	AlkamiOTSSECU_PreProd	b0f8a768-b7f4-47a3-abdc-98e2174ada27	SECU
+12	Alliance Catholic Credit Union	AlkamiAllianceCatholic	acdebb64-25ee-4b4a-94ac-b9c622f7f591	Alliance Catholic Credit Union
+12	CPM Federal Credit Union	AlkamiCPMFCU	e8c7261f-94e9-4d7c-b1b3-eb9b8f99ae6a	CPMFCU
+12	Fibre Federal Credit Union	AlkamiFibre	82d41192-f2d5-4892-956c-621aad403511	Fibre Federal CU
+12	Financial Partners Credit Union	AlkamiFinancialPartnersCU	8db456d0-a563-4134-bf11-b539a77abdfc	Financial Partners
+12	First Source Federal Credit Union	AlkamiFirstSourceFCU	870f5fcc-4dc0-4340-9a12-cc33cd74e319	First Source Federal Credit Union
+12	Ideal Credit Union	AlkamiIdeal	1f8b08b6-53df-4f9b-b4ec-748227c235ac	Ideal Credit Union
+12	Pacific Crest Federal Credit Union	AlkamiPacificCrest	64384b60-75ab-409b-84b6-31753fbc52fa	Pacific Crest FCU
+12	Resource One Credit Union	AlkamiR1CU	12969c78-2c14-420a-8ca8-7739b694e3e0	Resource One Credit Union
+12	Salal Credit Union	AlkamiSalal	ca5ccccc-1680-4462-afb0-eb1ef7275b99	Salal Credit Union
+12	Securityplus Federal Credit Union	AlkamiSecurityPlus	174809d8-14c1-4c82-92ef-352dd798cc34	Securityplus FCU
+12	St. Marys Bank	AlkamiSMB	96233ace-9781-47c0-88e9-1f6be15b8571	St. Marys Bank
+12	Team One Credit Union	AlkamiTeamOne	c2961782-52ec-414c-93a0-03a7f65e4d5b	Team One Credit Union
+12	USF Federal Credit Union	AlkamiUSF	4408075b-3592-487e-9cb7-7218d88e447c	USF Federal Credit Union
+12	Westby Co-Op Credit Union	AlkamiWestbyCoOp	72cfbd85-0cb2-4b13-a1b8-34495e2c6b93	WCCU Credit Union
+12	Western Vista Federal Credit Union	AlkamiWesternVistaCU	63b35cb9-28d1-43de-bc20-6e0aa5ba43be	Western Vista Federal Credit Union
+12	Westerra Credit Union	AlkamiWesterra	cee31089-76c6-4cd1-9d94-650958d6460a	Westerra Credit Union
+12	Wheelhouse Credit Union	AlkamiWheelhouse	4423aba4-0703-4dcb-ba00-d50cad6db35c	WheelhouseCU
+12.10	Spokane Teachers Credit Union	AlkamiSpokane	8054c733-80e7-420c-9007-09a927f36aa3	STCU
+12.4	Oregon Community Credit Union	AlkamiOregonCommunity	7f1e1367-078e-4086-a5ec-2da2fa40c883	OCCU
+14	AMOCO Federal Credit Union	AlkamiAmocoFCU	14398d64-9af5-4acb-b617-c4bfe315ab3f	AMOCO FCU
+14	Carter Federal Credit Union	AlkamiCarterFCU	49b92f02-5e39-4472-9b92-37346691fbd0	Carter
+14	Enrichment Federal Credit Union	AlkamiEnrichmentFCU	ea2df444-1792-4b1a-a75e-de0c6526743f	EnrichmentFCU
+14	Foothill Federal Credit Union	AlkamiFoothillCU	510a723d-45b7-4995-8486-8889c308967e	Foothill Credit Union
+14	Frontier Community Credit Union	AlkamiFrontierCCU	5a84a90c-364f-4f7a-99c5-fc21b1ffbd1e	Frontier
+14	Grow Financial Federal Credit Union	AlkamiGrowFinancialFCU	f08d74db-4a36-4e32-b0bc-ca40eee09520	Grow Financial
+14	Guardian Credit Union	AlkamiGuardianCU	536beb3f-4b76-46bd-98e0-1804f1fe40bb	Guardian Credit Union
+14	Gulf Coast Educators Federal Credit Union	AlkamiGulfCoastFCU	3804df8a-81f2-468c-bc0d-9febe4356528	Gulf Coast Educators FCU
+14	Metro Credit Union	AlkamiMetroCU	30442977-7ca2-4ad6-8c16-f16e667f05e8	MetroCU
+14	National Institutes Of Health Federal Credit Union	AlkamiNIHFCU	d3a39948-af78-42aa-890b-dbd18355a2ce	NIH Federal Credit Union
+14	Nw Preferred Federal Credit Union	AlkamiNorthwestPreferredFCU	b3c2f629-f7fc-409d-a18f-0135d9c771f8	NW Preferred Federal Credit Union
+14	Sharon & Crescent United Credit Union	AlkamiSharon	f5cef6a4-69f4-41e4-8b87-9aec2d2130d6	Sharon & Crescent United Credit Union
+14	Topline Federal Credit Union	AlkamiTopline	a7dffe78-3f76-4bed-ba3c-01bbe199a316	TopLine
+14.1	Achieva Credit Union	AlkamiAchieva	a41c9d3d-d33a-43e2-a60c-0804f52b6b9c	Achieva Credit Union
+14.1	Fort Sill Federal Credit Union	AlkamiFortSillFCU	681b2c04-b395-4522-9e4e-2b6973f14084	Fort Sill Federal Credit Union
+14.1	Heritage Bank	AlkamiHeritageBank	b6949dd1-61aa-4fbc-a7e3-66b611f744ff	Heritage Bank
+14.1	Intouch Credit Union	AlkamiInTouchCU	2a8fa900-0e29-4bae-bc48-ed6789056f54	InTouch Credit Union
+14.1	Unitus Community Credit Union	AlkamiUnitusCU	f236c48b-f6f3-4be3-9fe9-cd95433aa364	Unitus Community Credit Union
+14.1	Vantage West Credit Union	AlkamiVantageWestCU	5c4a1595-a501-44bd-8611-bd4e6a28b289	Vantage West Credit Union
+15	Mountain America Federal Credit Union	AlkamiMountainAmerica	13defec8-efe9-4244-81f5-ed83b59fe253	Mountain America Credit Union
+15.0.1	Mountain America Federal Credit Union	AlkamiMountainAmerica_PreProd	13defec8-efe9-4244-81f5-ed83b59fe253	Mountain America Credit Union PreProd
+15.0.2	Mountain America Federal Credit Union	AlkamiMountainAmerica_Prod013125	13defec8-efe9-4244-81f5-ed83b59fe253	Mountain America Credit Union OB PreProd
+16	ABNB Federal Credit Union	AlkamiABNBFCU	9c93c161-4311-46fe-a83c-c70ffe859752	ABNBFCU
+16	America's First Federal Credit Union	AlkamiAmericasFirstFCU	e457987b-6eeb-48b1-beec-5d91d8d8b1b0	AmericasFirstFCU
+16	Appalachian Community Federal Credit Union	AlkamiAppalachianCommunityFCU	76c5acee-b9fd-426d-9067-bd461b3712a1	Appalachian Community FCU
+16	Consolidated Community Credit Union	AlkamiConsolidatedCommunityCU	4f5d5a12-445d-467d-8e3b-73e98a87554b	Consolidated Community Credit Union
+16	Cport Credit Union	AlkamicPortCU	4af2c37b-f354-4365-ace9-252fc1f13abe	cPort Credit Union
+16	First Financial of Maryland Federal Credit Union	AlkamiFirstFinancialFCU	75977338-bcec-4f4f-bef8-e379c704cef3	FirstFinancialFCU
+16	Harvard University Employees Credit Union	AlkamiHarvardEmployeesCU	1455e5fd-8282-430b-bfbc-84fd250bd991	Harvard FCU
+16	Houston Police Federal Credit Union	AlkamiHoustonPoliceCU	cb1f9d0e-427b-4ac9-a72f-08b8573b17f6	Houston Police Credit Union
+16	Keesler Federal Credit Union	AlkamiKeeslerFCU	e83101b5-89d7-463e-b405-c8645fb42ce0	Keesler Federal
+16	The New Orleans Firemen's Federal Credit Union	AlkamiNewOrleansFiremensFCU	357d1977-6b6e-461d-8bcf-67f296abea4d	New Orleans Firemen's FCU
+16	Service One Credit Union	AlkamiServiceOneCU	f1ee85f0-1878-46a7-9e94-be0f6580c171	Service One CU
+16	State Farm Federal Credit Union	AlkamiStateFarmFCU	36be0199-cd9b-458d-97c0-a25c94cfdedd	State Farm Federal Credit Union
+16.1	Hudson Valley Credit Union	AlkamiHudsonValleyFCU	a9c56a23-463d-4b84-8295-5d6e345ea2e6	Hudson Valley Credit Union
+17	American AgCredit	AlkamiAmericanAgCreditCU	5ccdee68-701e-4c6a-bbfc-866fa806a99f	American AgCredit
+17	Embold Credit Union	AlkamiClackamasFCU	d6c6d6b2-1065-42af-9ea6-b536ae0900e4	Embold Credit Union
+17	Goldenwest Credit Union	AlkamiGoldenwestCU	4c5bed0e-71b1-4f7d-b1b2-1cd4c3eae752	Goldenwest Credit Union
+17	HawaiiUSA Federal Credit Union	AlkamiHawaiiUSACU	425810f8-71a4-4339-8351-7085ac86e747	HawaiiUSA FCU
+17	iQ Credit Union	AlkamiIQCU	33ba0d70-d065-4690-96a8-a8e38c5be8df	iQ Credit Union
+17	Mid Oregon Federal Credit Union	AlkamiMidOregonCU	28f75336-2d61-4c64-8237-e68ae6ac9157	Mid Oregon Credit Union
+17	Qualstar Credit Union	AlkamiQualstarCU	a324ad0f-82c6-433e-a46a-43bc7bacc6f5	QualstarCU
+17	Monterra Credit Union	AlkamiSanMateoCU	81f3bab6-0ab4-4d52-a69c-152b1b9c925e	Monterra Credit Union
+17	Credit Union Of Southern California	AlkamiSoCalCU	315f9b9d-fafb-4251-83b7-f236ff640a13	CU SoCal
+17	Uncle CU	AlkamiUncleCU	4d3c601c-28da-447d-82c4-dcc186349c23	UNCLE Credit Union
+17	USC Credit Union	AlkamiUSCCU	f6ef4dc3-752b-495a-aa63-112e32a589db	USC Credit Union
+17	Wyhy Federal Credit Union	AlkamiWyHyFCU	980106e8-7af1-4093-9fe6-6651dde13dd0	WyHy Federal Credit Union
+18	Alltru Credit Union	Alkami1stFinancialFCU	f228daf1-4b58-404c-a65c-521df728619f	Alltru Federal Credit Union
+18	Advantage One Federal Credit Union	AlkamiAdvantageOneCU	0fb32d2b-8555-44a0-a40a-71fa06bdcabb	Advantage One Credit Union
+18	Credit Union ONE	AlkamiCreditUnionOneCU	44083960-0124-403d-936e-a6f07fd0ca57	Credit Union ONE
+18	Florida Credit Union	AlkamiFloridaCU	c40faeb0-5cdc-4d72-95fe-e2b14cee4ae9	FloridaCU
+18	Holy Rosary Credit Union	AlkamiHolyRosaryCU	c9014e0e-3151-4ef1-ab4c-fac29e1f3f42	HRCU
+18	Mayo Employees Federal Credit Union	AlkamiMayoEmployeesFCU	405b7509-3cd4-43f3-b93a-44aabfb62df2	Mayo Employees FCU
+18	Memphis City Employees Credit Union	AlkamiMemphisCU	d0d8441e-2859-4bf1-b82d-dfca423766df	Memphis City Employees Credit Union
+18	Merrimack Valley Credit Union	AlkamiMerrimackValleyCU	79c389e4-1100-482e-8c78-6d05c7417c0e	BrightBridge CU
+18	NET Federal Credit Union	AlkamiNETFCU	40af9110-5c07-4680-b598-5167348d16f7	NET Credit Union
+18	Nymeo Federal Credit Union	AlkamiNYMEOCU	c8accedd-8b31-4925-b589-8a347b5862a4	Nymeo
+18	Westmark Credit Union	AlkamiWestmarkFCU	d632fbb5-f238-4ac8-9590-6c12b9905a51	Westmark Credit Union
+18.51	Northwest Federal Credit Union	AlkamiNorthwestFCU	cdd2efd7-189f-4125-80e8-44408b8abe9d	Northwest Federal Credit Union
+19	Carolinas Telco Federal Credit Union	AlkamiCarolinasTelcoFCU	bcbef5cb-de9b-411e-8eec-61821976964a	Carolinas Telco Federal Credit Union
+19	Charter Oak Federal Credit Union	AlkamiCharterOakFCU	1ef2fcef-3961-4ca3-8d05-0480c4698a26	Charter Oak FCU
+19	Cinfed Federal Credit Union	AlkamiCinfedCU	aa2145ab-d2d8-4aa9-bd15-41f0deb14e2a	Cinfed Credit Union
+19	Direct Federal Credit Union	AlkamiDirectfcu	2031b92f-4bf9-4890-98e4-8a1a30d2373f	Direct Federal Credit Union
+19	Municipal Credit Union	AlkamiNYMFCU	b44f3db8-9bf9-411b-b911-c1a65bcea3c5	Municipal Credit Union
+19	STAR Financial Bank	AlkamiSTARBank	d95d2e61-a7a2-4fcd-9f03-aa2b914578b0	STAR Financial Bank
+19	Telhio Credit Union	AlkamiTelhioCU	4caad8c5-45c4-4a1b-8ce2-1992fcd7471d	Telhio Credit Union
+19	Verve, A Credit Union	AlkamiVerveACU	0a1016ba-f4fe-41f2-80c3-d86f3f1bacd1	Verve a Credit Union
+2.5	Credit Union Of America	AlkamiCUAmerica	8d71ad3d-6f58-41c2-b33b-f458dfae929e	Credit Union of America
+2.5	Credit Union 1 (AK)	AlkamiCuOne	11af2e66-b72e-415b-843e-19f2efb38067	Credit Union 1
+2.5	Gate City Bank	AlkamiGateCityBank	d4cb91aa-3c75-47ee-980d-2e3783a2dfbe	Gate City Bank
+2.5	Jefferson Financial Credit Union	AlkamiJFCU	92ab4c2f-b228-46bf-873b-26b7db2db1d0	Jefferson Financial FCU
+2.5	Northern Skies Federal Credit Union	AlkamiNorthernSkies	d69dad5f-d197-492c-bdd9-1a9c08a3b02f	Northern Skies Federal Credit Union
+2.5	Scott Credit Union	AlkamiScottCU	830c9d1a-0bbf-4fba-9dd0-37aa0fdd6bc0	Scott Credit Union
+2.5	Sidney Federal Credit Union	AlkamiSidney	dcd24799-2560-451f-828b-f5da13db5e4f	SFCU
+2.5	Sun Federal Credit Union	AlkamiSun	4df68878-cd8b-42a8-8417-32319c68f107	Sun Federal Credit Union
+2.5	Vibrant Credit Union	AlkamiVibrant	aa51354f-a48c-4315-96b5-51d3abd8295c	Vibrant Credit Union
+20	Acadia Federal Credit Union	AlkamiAcadiaFCU	df925ef5-a4dc-4304-8a19-1ae3fa05ce8b	Acadia Federal Credit Union
+20	Apple Federal Credit Union	AlkamiAppleFCU	86b6d411-4bd3-438e-b2ba-617174fe248c	Apple FCU
+20	Arkansas Federal Credit Union	AlkamiArkansasFCU	15302625-5189-4beb-b37c-fa1274adced5	Arkansas Federal Credit Union
+20	Atlantic Federal Credit Union	AlkamiAtlanticFCU	0a7a921a-bbe0-4ef2-bfe3-0b95f6c2309c	Atlantic Federal Credit Union
+20	Carolina Trust Federal Credit Union	AlkamiCarTrustFCU	531e3a1b-40b4-453a-bcf2-52b00dc039ed	Carolina Trust Federal Credit Union
+20	Educational Federal Credit Union	AlkamiEducationalFCU	d913be88-7602-42f4-829b-d854a6cf5452	Educational Federal Credit Union
+20	Heartland Credit Union (KS)	AlkamiHeartlandKSCU	2215b178-5098-4365-a023-35567782bf7d	Heartland Credit Union
+20	Maine Savings Federal Credit Union	AlkamiMaineSavings	1f743221-6f62-4625-aafc-c4ba099c2d7a	Maine Savings
+20	Marine Credit Union	AlkamiMarineCU	57ccfe56-b350-4371-aa0a-5e2b062bd1be	Marine Credit Union
+20	NorState Federal Credit Union	AlkamiNorstateFCU	8f9f5a86-90fc-4928-8019-3b170e5f8e1a	NorState Federal Credit Union
+20	Northern Credit Union	AlkamiNorthernCU	f94a7db2-e10e-48b1-8fb5-51955edbaad8	Northern Credit Union
+20	PeoplesChoice Credit Union	AlkamiPeoplesChoice	cc0bc5f7-684a-42b9-bf56-dd259e778392	PeoplesChoice Credit Union
+20	The People's Credit Union	AlkamiPeoplesCU	c5efd46f-0a61-4ac1-99d1-0f30752c14e9	People’s Credit Union
+20	Three Rivers Federal Credit Union	AlkamiThreeRiversFCU	be4563a2-036a-499a-bbf5-30d7d5b7abd8	3Rivers
+20.4	Broadview Federal Credit Union	AlkamiStateEmployeesFCU	d3caf28d-e7dd-40da-9992-4fa29dff4894	Broadview Federal Credit Union
+20.6	First InterNational Bank & Trust	AlkamiFirstInternationalBT	2dd8637f-ea3e-490d-a7e9-17df2c955aa3	First International Bank & Trust
+21	Centra Credit Union	AlkamiCentraCU	62dc61a7-7a35-440d-a7ac-ce324a2053eb	Centra Credit Union
+21	Del-One Federal Credit Union	AlkamiDelOne	89802eb9-5207-48c4-8537-10d4705bc3c8	Del-One FCU
+21	Five County Credit Union	AlkamiFiveCountyCU	a844e3d3-64cf-443a-924f-f26a89e47c74	FiveCountyCU
+21	Heartland Credit Union (WI)	AlkamiHeartlandWICU	a700e2b2-c75b-4279-87a5-a1221bf6ba45	Heartland Credit Union
+21	Kennebec Savings Bank	AlkamiKennebecSB	abbd1328-9a3d-4cf6-b609-0a88f2c110e4	Kennebec Savings Bank
+21	Launch Credit Union	AlkamiLaunchCU	304bcde7-e027-484e-b7a5-e929a946b88e	Launch Credit Union
+21	Leominster Credit Union	AlkamiLeominster	a13c6359-02f6-4998-aba7-9d2ab3a454e3	All One Credit Union
+21	LOC Federal Credit Union	AlkamiLOCFCU	da195e92-4311-4e1d-b2cf-79cd19640ad5	LOC CREDIT UNION
+21	Maine State CU	AlkamiMaineStateCU	3188e739-824c-4316-8935-6f8fad8ac811	MAINE STATE CREDIT UNION
+21	ORNL Federal Credit Union	AlkamiORNLFCU	8593d6b8-a168-4f26-96bf-e81238673061	ORNL Federal Credit Union
+21	Texans Credit Union	AlkamiTexansCU	cc234eb4-4b72-4a3b-9e83-5e1d637dbd8d	Texans Credit Union
+21.3	Liberty Bank	AlkamiLibertyBank	ecfacdef-f609-4429-ae2c-6da881999505	Liberty Bank
+21.3	Owners Bank	AlkamiOwnersBank	3fa5e913-ade1-4268-82c6-2e660bbcff1b	Owners Bank
+23	Soarion Credit Union	AlkamiAirForceFCU	ec1729ac-db4b-4272-b7b4-14e3cc5a6088	Soarion Digital Banking
+23	Alabama Teachers Credit Union	AlkamiAlabamaTeachersCU	f1e3ae57-2ce9-4085-8ab9-b69b01974093	Emblem CU
+23	Community Choice Credit Union	AlkamiCommChoiceCU	6eb52fb4-625c-444f-baea-59bef3a7c9e9	Community Choice
+23	Communication Federal Credit Union	AlkamiCommfCU	ea02d3a8-a66d-4ced-85f4-e048f9c3e95c	Communication Federal Credit Union
+23	Heritage Federal Credit Union	AlkamiHeritageFCU	b821440e-25ab-4b2d-9a74-21ab5b40998d	Heritage Federal Credit Union
+23	Midcoast Federal Credit Union	AlkamiMidcoastFCU	3410c11c-1da7-4897-bc6d-45645a6c3dd8	Midcoast Federal Credit Union
+23	Radiant Credit Union	AlkamiRadiantCU	b58785fd-de46-44f5-b97c-302b55cc83fd	Radiant Credit Union
+23	Signal Financial Federal Credit Union	AlkamiSignalFinancialFCU	586bf998-f18f-4cf3-b2fe-80c1a06f3a1f	Signal Financial FCU
+23	SRP Federal Credit Union	AlkamiSRPFCU	1379036c-3d67-442d-b155-5e1a7a76f4c8	SRP FCU
+23	Teg Federal Credit Union	AlkamiTegFCU	184bb0a7-5300-4438-a5de-174ad898720b	TEG Federal Credit Union
+23	Texas Tech Federal Credit Union	AlkamiTexasTechFCU	844aac0a-2f37-423b-8919-345b77ea1219	Texas Tech Credit Union
+23	True Community Credit Union	AlkamiTrueCommCU	be303458-b4c4-42f6-b92c-27bd6942e581	TRUE Community Credit Union
+23	Walden Mutual	AlkamiWaldenMutual	f5be9d11-5776-4af6-b304-f260a474ac54	Walden Mutual Bank
+24	Aero Federal Credit Union	AlkamiAeroFCU	db58c2ef-470f-4126-b408-0514ebdfb370	AERO Financial
+24	Arrowhead Central Credit Union	AlkamiArrowheadCentralCU	494109aa-6671-438f-b392-ab072e656a55	Arrowhead Credit Union
+24	Del Norte Credit Union	AlkamiDelNorteCU	590ea83c-ac14-49a7-a002-d3bf8f9cd54b	Del Norte Credit Union
+24	Downey Federal Credit Union	AlkamiDowneyFCU	67aed5aa-ee36-49cb-8dcc-ddb24fe2e302	DFCU
+24	F&A Federal Credit Union	AlkamiFAFCU	9479f704-bb78-4757-a1f0-c73c3cf48add	F&A Credit Union
+24	First Financial (New Mexico) Credit Union	AlkamiFFCUNM	faf24de8-901e-47d1-98ad-c38ef26f5a56	First Financial Credit Union
+24	First Entertainment Credit Union	Alkamifirstentertainmentcu	9aa06cd4-0409-4e4b-9186-e0112af2aff2	First Entertainment
+24	First U.S. Community Credit Union	AlkamiFirstUSCommCU	4bb1aa6c-b2ca-4161-a2d3-d4e7fe12a43b	First U.S. Community Credit Union
+24	LA Financial Federal Credit Union	AlkamiLAFinancialFCU	ad322d5d-3d6a-46f8-9589-18fdd0989035	LA Financial Credit Union
+24	Meridian Trust Federal Credit Union	AlkamiMeridianTrustFCU	005de753-3d23-46bc-95b8-82f1524728d9	Meridian Trust Federal Credit Union
+24	Premier Members	AlkamiPremierMembersCU	3cb2f31b-f80e-4009-854c-cddc945f2708	Premier Members CU
+24	Premier One Credit Union	AlkamiPremierOneCU	fcca20c1-6914-4454-93c6-e71955310ba0	PremierOne Credit Union
+24	Southland Credit Union	AlkamiSouthlandCU	2df01fa8-2542-4bb0-a914-f083128d8f3f	Southland Credit Union
+24	Tucson Old Pueblo Credit Union	AlkamiTucsonOldPuebloCU	a644c86b-8a06-4320-9958-82ac9f7e89ee	TOPCU
+24	Whitefish Credit Union Association	AlkamiWhitefishCU	ad01d3ae-1600-449d-beb9-d154beb94115	Whitefish Credit Union
+26	Citizens Bank	AlkamiCitizensBank	2c6e7b00-1322-48cb-96e3-a167d96224a5	Citizens Bank
+26	Dirigo Federal Credit Union	AlkamiDirigoFCU	03d2b99b-e879-4745-af33-6dff1789d3bf	Dirigo Federal Credit Union
+26	Dupage Credit Union	AlkamiDupageCU	b6136c42-532d-4965-863c-8d2ea3afa041	DuPage Credit Union
+26	Guardian Credit Union (AL)	AlkamiGuardianALCU	2fb1fad2-d48a-4c3f-9fcc-28f3fcd09dce	Guardian Credit Union
+26	Heartland Bank and Trust Company	AlkamiHeartlandBT	c3bb4f6b-f4a5-42a4-8714-d4f7d1d2c11a	Heartland Bank and Trust Company
+26	Horicon Bank	AlkamiHoriconBank	14515e7c-c948-4661-85b1-8120e3a8b503	Horicon Bank
+26	Landmark Credit Union	AlkamiLandmarkCU	cb9939e2-e9c0-4b40-b763-142101a99e35	Landmark Credit Union - Digital Banking Login
+26	Merck Sharp & Dohme Federal Credit Union	AlkamiMerckSharpDohmeFCU	42a0242e-bfcd-4f41-95df-7a886b7ee2ed	MSDFCU
+26	Mid South Community Federal Credit Union	AlkamiMidsouthCommFCU	380426c5-73b5-4263-8b44-8fe30ba00c1f	MidSouth Community FCU
+26	Raiz Federal Credit Union	AlkamiRaizFCU	9392130f-0120-4eb2-9e41-b25283b50b8c	Raiz Federal Credit Union
+26	Somerset Trust Company	AlkamiSomersetTrust	3b2edaaa-beb0-48fb-8682-cbfcfa350733	Somerset Trust Company
+26.0.1	Horicon Bank	AlkamiHoriconBank_PreProd	14515e7c-c948-4661-85b1-8120e3a8b503	Horicon Bank
+27	Community First Credit Union	AlkamiCommunityFirstCU	59355231-a4e3-4efb-a307-6cc2ea8a724a	Community First Credit Union
+27	Kinecta Federal Credit Union	AlkamiKinectaFCU	ae8c7caa-1322-4aaa-a939-274b0bb52e8d	Kinecta
+27	Patelco Credit Union	AlkamiPatelco	437cc058-664e-4b02-a151-4a0c389053e6	Patelco Credit Union
+27	Yolo Federal Credit Union	AlkamiYoloFCU	1381461e-90e7-4969-973d-68264e27e048	Yolo FCU
+27.0.1	Patelco Credit Union	AlkamiPatelcoBetaWest	437cc058-664e-4b02-a151-4a0c389053e6	Patelco Credit Union
+28	BeaconFCU	AlkamiBeaconFCU	36e3ae18-8086-4d0f-8ae9-f265e238b207	Beacon Federal Credit Union
+28	Cobalt Credit Union	AlkamiCobaltCU	9610675e-da11-41b5-94ab-d7b0c20aa7da	Cobalt Credit Union
+28	Corning Credit Union	AlkamiCorning	77797a49-03e9-4c58-ac53-09fc3eadc888	Corning Credit Union
+28	Credit Union Of Texas	AlkamiCUofTexas	81d7b6c4-13ac-4295-9282-fabaea3288e0	Credit Union of Texas
+28	Dade County Federal Credit Union	AlkamiDadeCountyFCU	d75bcaba-956f-4433-8458-471860f3332c	Dade County FCU
+28	Mascoma Bank	AlkamiMascoma	0c32f8d9-9635-4e56-9349-5c4728001992	Mascoma Bank
+28	Mutual Credit Union	AlkamiMutualCU	4e84ed62-1b2b-491c-ace3-8d54d2decb64	Mutual FCU
+28	Quontic Bank	AlkamiQuonticBank	4056af9d-0a55-4201-8393-3b5ce8c2c590	Quontic Bank
+28	Skyla Credit Union	AlkamiSkylaCU	143bb68a-1fbb-4a2e-b226-9eaba7371386	Skyla Credit Union
+28	Superior Choice Credit Union	AlkamiSuperiorChoiceCU	92df2286-5dc4-4d09-aa78-35efcf3ab29d	Superior Choice Credit Union
+28	Todos Unidos CUTX	AlkamiTodosUnidos	87836249-ff17-4fd3-936f-bc8586ddfb5e	Todos Unidos
+28	Trinity Bank National Association	AlkamiTrinityBank	29b7fb76-b5c4-491a-8f21-44cd06b5256d	Trinity Bank
+28	TTCU Federal Credit Union	AlkamiTTCUFCU	fe814c0e-2d9f-4406-aaf6-8d27c2d0d862	TTCU Federal Credit Union
+28	Vermont Federal Credit Union	AlkamiVermontFCU	8cbfcfa8-0314-454c-b6d5-9b40a351e8b1	Vermont Federal Credit Union
+28.51	Apl Federal Credit Union	AlkamiAPLFCU	d1b9b4b0-beb2-4307-847c-6d1ccc4a32a6	APL Federal Credit Union
+29	BMI Federal Credit Union	AlkamiBMIFCU	17efd756-765d-483e-8367-10b6872f6883	BMI Federal Credit Union
+29	Corporate America Family Credit Union	AlkamiCAFCU	1aa39087-6d94-4837-8690-9e060d3dacc5	CAFCU
+29	Century Federal Credit Union	AlkamiCenturyFCU	883d77e3-ea17-401f-a9ba-ab095537264a	Century FCU
+29	Crescent Bank & Trust	AlkamiCrescentBank	71578e91-80a3-4f2d-bc22-322e1e85e4d0	Crescent Bank
+29	Financial Center First Credit Union	AlkamiFinancialCenterFirstCU	507567f5-5681-4e15-b666-70468db9a801	Financial Center
+29	NASA Federal Credit Union	AlkamiNASAFCU	2abca82c-ac1a-4b4f-aa67-34efa2038f60	NASA Federal Credit Union
+29	Nutmeg State Financial Credit Union	AlkamiNutmegStateFCU	d0dcff30-5618-40dc-9570-76ad416a16cb	Nutmeg State Financial Credit Union
+29	Regional Missouri Bank	AlkamiRegionalMissouriBank	88d3c634-139b-409f-8ad1-a73f519d25f6	RegionalMissouriBank
+29	REV Federal Credit Union	AlkamiRevFCU	4d155e63-0589-4792-8e7c-c558ca685ba6	REV
+29	Tennessee Valley Federal Credit Union	AlkamiTennesseeValleyFCU	8fc50c21-e79f-49db-890f-30bddf8e6380	TVFCU
+29	Towpath Credit Union	AlkamiTowpathCU	fcf71bb5-78b3-41c3-ac37-6ad54b46be97	Towpath Credit Union
+29	Vicinity Credit Union	AlkamiUnitedCU	25b7bfaf-9f34-45ba-b362-3bbdaf39c457	Vicinity Credit Union
+30	AdelFi Credit Union	AlkamiAdelFiCU	5335f32f-0e4e-4851-95d7-278a7a4dec33	AdelFi
+30	American First Credit Union	AlkamiAmericanFirstCU	b1c4e147-4fe5-4693-84d5-80d02560b4f2	American First Credit Union
+30	Canvas Credit Union	AlkamiCanvasCU	78126bef-c749-4b26-bf9b-e20fb29be5c7	Canvas Credit Union
+30	Clearwater Credit Union	AlkamiClearwaterCU	70abb6d6-fe13-48e5-9640-9f4ab59234b8	Clearwater Credit Union
+30	Credit Union of Denver	AlkamiCUofDenver	e92c1941-0b23-4162-a3e8-eb579d3a844c	Credit Union of Denver
+30	Elevations Credit Union	AlkamiElevationsCU	e3896c7c-3ca0-4728-8b38-9682fa64c082	Elevations Credit Union
+30	Intrepid (Helena Community) Credit Union	AlkamiIntrepidCU	0bda08b4-067c-406d-b55f-7a708862b6c6	Intrepid Credit Union
+30	Pearl Hawaii Federal Credit Union	AlkamiPearlHawaiiFCU	1777997a-9e9b-46db-82e0-bede312e8410	Pearl Hawaii
+30	Sound Community Bank	AlkamiSoundCommBank	dc1a362d-3bc3-4c97-9f6e-eeeb2665e5d2	Sound Community Bank
+30	Ventura County Credit Union	AlkamiVenturaCountyCU	bf69c136-f7f5-4ad3-b47b-7681fbc90c13	Ventura County Credit Union
+31	Arsenal Credit Union	AlkamiArsenalCU	7558caf2-ce1d-4a9b-a71c-80497ea22f6c	Arsenal Credit Union
+31	Atomic Credit Union	AlkamiAtomicCU	59d2ee7d-1474-4086-9e93-73b1125181cb	Atomic Credit Union
+31	First Fidelity Bank	AlkamiFirstFidelityBank	0efcb03e-907a-4c6f-a6e5-d6f8854eacdc	First Fidelity Bank
+31	First New York Federal Credit Union	AlkamiFirstNewYorkFCU	7b45833e-a89e-420e-8f47-3cc2711b2186	First New York FCU
+31	Ih Credit Union, Inc.	AlkamiIHCU	2260efa0-5037-4f79-9b52-76b7367aa952	IHCU
+31	Inova Federal Credit Union	AlkamiInovaFCU	75d1f116-c767-44ad-86ff-00aeeea30ec8	INOVA Federal
+31	Kemba Credit Union	AlkamiKembaCU	9af19236-13fe-4bad-b506-50d725c81aa9	Kemba Credit Union
+31	Market USA Federal Credit Union	AlkamiMarketUSAFCU	32fc9c03-e0d5-495d-a285-9841ea110dc7	Market USA FCU
+31	Merck Employees Federal Credit Union	AlkamiMerckEmployeesFCU	12c1f7ba-9d44-41c2-a3f1-e2c3d0e0d88e	Merck Employees FCU
+31	Premier Bank	AlkamiPremierBank	731018d3-96ae-469f-a267-f27c4dca0ffe	Premier Bank
+31	Tinker Federal Credit Union	AlkamiTinkerFCU	7bc7647b-99c0-4325-99e0-46140b142421	Tinker Federal Credit Union
+31.1	First Federal Bank of Louisiana	AlkamiFFBLouisiana	179dc3a3-f767-4f16-9e26-f24a6c12fcf2	First Federal Bank of Louisiana
+31.2	Tower Federal Credit Union	AlkamiTowerFCU	ea8e5e92-5b96-4d5a-945c-3b38e3fa062d	Tower Federal Credit Union
+32	Civic Federal	AlkamiCivic	5e5302a6-922b-4429-b86a-263a83a9a490	Civic Federal Credit Union
+5	First Tech Federal Credit Union	AlkamiFirstTech	c55ede7a-29e1-43b6-abc2-aeca0993e5af	First Tech Federal Credit Union
+50	BankCherokee	AlkamiBankCherokee	fca117c3-2a4d-4ccd-9b2f-638abe84ee9f	BankCherokee
+50	Clear Mountain Bank	AlkamiClearMountainBank	df76c722-2c6a-4a8e-87f9-bc968c76d994	ClearMountainBank
+50	National Exchange Bank and Trust	AlkamiNationalExchangeBT	e4c70878-a797-48e9-b9d9-abf4cc0483d2	National Exchange Bank & Trust
+50	Polish & Slavic Federal Credit Union	AlkamiPolishSlavicFCU	2bcb4ffb-f3f4-46c3-814c-0156b462bb93	Polish & Slavic FCU
+50.1	American Eagle Financial Credit Union	AlkamiAmericanEagleFCU	c9748ddc-9158-4a8a-b546-cc3444977c3e	AmericanEagleFCU
+50.1	Capital Credit Union	AlkamiCapitalCU	1e8e6481-93c4-4e8e-8e49-c6e09b646f53	Capital Credit Union
+50.1	Colony Bank	AlkamiColonyBank	866e0290-4bb4-4374-b8a7-99292dc3dbaf	Colony Bank
+50.1	Community Bank of Mississippi	AlkamiCommunityBankofMississippi	1156d7e0-8a6b-497d-aeed-bb56fe29613a	Community Bank
+50.2	Educational Systems Federal Credit Union	AlkamiEducationalSystemsFCU	3c080f01-69e1-45c4-9d26-de7dc2d13c96	EducationalSystemsFCU
+50.2	GreyLock FCU	AlkamiGreylockFCU	e244ad25-52df-4f1d-ac93-e1daf7cb44f0	GreylockFCU
+50.2	Lone Star National Bank	AlkamiLoneStarNationalBank	984ab469-3e21-4e82-9335-fb81275255fc	Lone Star National Bank
+50.2	Metro Credit Union (MO)	AlkamiMetroCreditUnion	b8cb99df-f767-4a2a-8b84-9b8516b9824a	MetroCreditUnion
+50.2	NiagarasChoiceFCU	AlkamiNiagarasChoiceFCU	6c8a925a-6032-47de-a646-b81c24f45fb5	NiagarasChoiceFCU
+50.2	Service Credit Union	AlkamiServiceCU	4966a3e3-93d6-490c-922a-8404c21f9ffb	Service Credit Union
+50.2	Tri City National Bank	AlkamiTriCityNationalBank	c8e9abe7-1b95-4b71-bddb-8fb1c1fee7c4	TriCityNationalBank
+50.3	AVB Bank	AlkamiAVBBank	8da1cfa5-13c8-42bc-98c2-98dfa5803247	AVB Bank
+50.3	Bristol County Savings Bank	AlkamiBristolCountySavingsBank	0bf68ced-dcb4-4a64-bdf4-8d4c05952566	Bristol County Savings Bank
+50.3	First Federal Savings Bank	AlkamiFirstFederalSavingsBank	cb27a21b-3411-4624-941c-8ae80f75b3ec	FirstFederalSavingsBank
+50.3	Ohio Health Care CU	AlkamiOhioHealthcareCU	b5c3e1ac-2d25-4efa-a9b0-ca36f041b00d	Ohio Healthcare FCU
+50.3	State Bank of Texas	AlkamiStateBankofTexas	1f74a91e-f5cf-4b0f-9704-528cafdc9a54	StateBankofTexas
+50.4	Honor Credit Union	AlkamiHonorCU	ca35206d-be04-4d64-9666-18310b079c92	Honor Credit Union
+50.4	Tradition Capital Bank	AlkamiTraditionCapitalBank	ffa43263-218d-4130-a078-f81729b45197	Tradition Capital Bank
+50.5	Bridgewater Bank	AlkamiBridgewaterBank	9fbf4b9b-a85e-472c-a429-857913543af5	Bridgewater Bank
+50.5	Cape Cod Co-Operative Bank	AlkamiCapeCodCoOp	604f85c7-4a9a-4d64-93f0-208ac487f300	CapeCodCoOp
+50.5	First Mid Bank & Trust National Association	AlkamiFirstMidBankTrust	b83d41c5-c92c-4dd1-aea6-be7a6300e9ae	First Mid Bank & Trust
+50.5	Kennebunk Savings Bank	AlkamiKennebunkSavingsBank	cf14fd9e-2b21-465c-ba19-5157b5387a49	KennebunkSavingsBank
+50.5	Passumpsic Savings Bank	AlkamiPassumpsicSavingsBank	355a7c3d-bb56-4760-b9d1-f2db67599225	Passumpsic Bank
+50.5	Unity One CU	AlkamiUnityOneCU	8a804a62-09f5-4eaa-9c66-9f4121a99c1c	Unity One Credit Union
+6	Georgia's Own Credit Union	AlkamiGOCU	984a5acc-4034-49ea-9921-e4e87b4645af	Georgia's Own Credit Union
+6.1	Achieve Financial Credit Union	AlkamiAchieveFinancial	bbffab76-0341-4b05-afe3-591250b80b2d	Achieve Financial Credit Union
+6.1	Alabama State Employees Credit Union	AlkamiAlabamaState	074da4ca-95ca-4497-8161-0c1489e6660f	ASE Credit Union
+6.1	Brazos Valley Schools Credit Union	AlkamiBrazosValleySchools	5a85bc3d-da39-4894-b989-195d4fd515d7	Brazos Valley Schools Credit Union
+6.1	Copper State Credit Union	AlkamiCanyon	cde8aa52-d690-4ea3-9bf7-a3517a6cc81e	Copper State Credit Union
+6.1	Class Act Federal Credit Union	AlkamiClassActFCU	a40ebb07-2b3a-4f77-9ca4-d4b2ea594a3c	Class Act Federal Credit Union
+6.1	Fairmont Federal Credit Union	AlkamiFairmont	8b01545e-b235-42e4-9bea-710608825913	Fairmont FCU
+6.1	HealthCare Associates Credit Union	AlkamiHealthcareAssociates	50e2a661-0dee-42f8-bbf3-1445bc578198	HealthCare Associates Credit Union
+6.1	Valley Strong Credit Union	AlkamiKernSchools	e6a281b4-b518-40e7-b525-1d6f25bd5d0f	Valley Strong
+6.1	My Community Credit Union	AlkamiMyCommunityCU	83ae0ab5-487e-46e9-8af1-0d65c249b646	My Community Credit Union
+6.1	Priority One Credit Union	AlkamiPriorityOneCU	6dc06bb8-94bd-4618-bab6-3a532a8f12f7	Priority One Credit Union
+6.1	Sandia Laboratory Federal Credit Union	AlkamiSandiaLabs	bf1d7163-5804-4561-b598-0bdf129a738b	Sunward
+6.1	South Carolina National Guard Federal Credit Union	AlkamiSCNG	2460cc0a-dbc5-4c87-bd21-f09e2ff4fb5b	SCNG FCU
+6.1	St. Cloud Credit Union	AlkamiStCloudCU	693db784-aa67-47db-a1ee-12d5e5f785d3	St. Cloud Financial Credit Union
+7	Campus Federal Credit Union	AlkamiCampus	61cbc8ba-d6a9-45e1-95a4-552810998aaf	Campus Federal Credit Union
+7	Capital Educators Federal Credit Union	AlkamiCaped	c099a12a-21c7-4b88-a1b6-912db0aab7ba	CapEd Credit Union
+7	Catholic Vantage Financial Federal Credit Union	AlkamiCatholicVantageFCU	c2624d8a-e83e-4f32-a394-fb95ddbe856f	CVF Credit Union
+7	Credit Union West	AlkamiCreditUnionWest	cbbd1811-94ad-45cd-b2c7-1d1e4bd8eeb0	Credit Union West
+7	First Florida Credit Union	AlkamiFirstFloridaCU	947e372c-f96c-4bf6-a9df-a4cc2474cfc4	First Florida Credit Union
+7	I-C Federal Credit Union	AlkamiICFCU	13ee40bb-cd63-4e91-acc5-d529b0787ed1	IC Credit Union
+7	Jeanne D'Arc Credit Union	AlkamiJDCU	374de16e-f621-49be-8447-c74eeb28c192	Jeanne D'Arc Credit Union
+7	LGE Community Credit Union	AlkamiLGE	660fcd0f-186f-4a5a-9514-de832540222c	LGE Community Credit Union
+7	Members Choice Credit Union (TX)	AlkamiMembersChoiceCU	52c5db88-904a-43b1-a3a7-efef2fa9da77	Members Choice Credit Union
+7	North Dallas Bank & Trust Co.	AlkamiNorthDallasBankTrustCo	306c1069-a8b5-4ef5-8daf-34201de83b9a	NDBT
+7	Frontwave Credit Union	AlkamiPacificMarine	27b25a17-1e5b-456e-b084-bd37fd9da474	Frontwave
+7	My Credit Union	AlkamiRichfieldBloomington	8610350a-975b-4d3a-adb7-f920dfa99917	My Credit Union
+7	US Community Credit Union	AlkamiUSCommunityCU	8a1c1725-615c-4a9c-8541-8432365b10c3	US Community CU
+7	Water And Power Community Credit Union	AlkamiWaterandPowerCCU	f154a802-bb3f-4c79-9205-0053f38d53af	Water and Power CCU
+7.3	Educators Credit Union	AlkamiEducators	6b23fb8c-2a10-4586-84b0-91d217fd5f42	Educators CU
+70	Aerospace Federal Credit Union	AlkamiAerospaceFCU	76c172c1-d38c-4dd4-af01-1fbdbb58fc2d	AerospaceFCU
+70.1	Technology Credit Union	AlkamiTechnologyCU	3d3f4552-8712-4f9d-9196-41bedd4605e5	Tech CU
+8	Altura Credit Union	AlkamiAltura	2df79707-7446-45a1-8848-91ad5c2f64b6	Altura Credit Union
+8	Belco Community Credit Union	AlkamiBelco	5b0ae0c6-2b79-458d-951a-245fd0a16ebb	Belco Community Credit Union
+8	Democracy Federal Credit Union	AlkamiDemocracy	97dab0ef-86c5-4ecb-905a-33fdf0713eee	Democracy Federal Credit Union
+8	Family Trust Federal Credit Union	AlkamiFamilyTrustFCU	1eaab18b-aaa8-4dd4-b6a3-498b6eb46bbe	Family Trust
+8	Lehigh Valley Educators Credit Union	AlkamiLehighValley	460b7a46-e596-4a5a-a5a0-5cc2ad389809	Lehigh Valley Educators Credit Union
+8	Prime Financial Credit Union	AlkamiPrimeFinancial	3df7b2a4-7fb3-494d-ad38-297d94af8df4	Prime Financial Credit Union
+8	Rocky Mountain Law Enforcement Federal Credit Union	AlkamiRockyMountainLaw	4ae6291e-dfb1-456a-90e4-163a52349dee	Affidian Credit Union
+8	Sandia Area Federal Credit Union	AlkamiSandia	78de97e5-d7d9-4a87-9329-7a454bf8b33b	Sandia Area
+8	SF Fire Credit Union	AlkamiSanFranciscoFire	f5bcaa07-38dc-4d8d-acb8-62307a0a599c	SF Fire Credit Union
+8	Smart Financial Credit Union	AlkamiSmartFinancial	31468f71-513a-4847-a330-5022647ea2c0	Smart Financial Credit Union
+8	Veridian Credit Union	AlkamiVeridian	3beed21b-855d-4119-a5d4-594df25160d9	Veridian Credit Union
+8	We Florida Financial Credit Union	AlkamiWeFloridaFinancial	d9b3d3c0-1445-4f52-b22d-fb1cca4421a1	We Florida Financial
+9	Desert Financial Credit Union	AlkamiDesertSchools	ea7ecde6-a469-4cff-bab1-440a4b7bbbf3	Desert Financial Credit Union
