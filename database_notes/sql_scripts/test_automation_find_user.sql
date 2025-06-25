@@ -1,4 +1,9 @@
 -- test_automation_find_user.sql
+--
+-- Use this script to find test automation users and their passwords
+--
+-- Connect to server "DC00DB01" for the TestAutomation database
+
 
 SET TRANSACTION ISOLATION LEVEL READ COMMITTED
 
@@ -15,14 +20,12 @@ select top 100
 , utd.[Comments]
 , utd.[Id]
 from
-  [dbo].[UserTestData_staging] utd (nolock)
+  [dbo].[UserTestData_trin] utd (nolock)
 WHERE 1=1
-  and [Fi] like '%texan%'
-
-
-  -- and [Fi] like '%iccu%' 
+  and [Fi] like '%iccu%' 
   -- and UserName = 'ALKATOAIUser' -- alk@mi12345TEST
-  -- and UserName = 'iccusub20230802 -- alk@mi1234TEST
+  and UserName = 'awaite123' -- alk@mi1234TEST
+  -- and UserName = 'ACRIdaho'
 
   -- and [Fi] = 'mountainamerica' 
   -- and DataType = 'Default'
