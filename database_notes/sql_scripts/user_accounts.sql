@@ -1,8 +1,14 @@
 -- user_accounts.sql
+-- Description: Get some essential user information
+
+use AlkamiICCU_Red14 -- Server DC00DB01
+go
 
 SET TRANSACTION ISOLATION LEVEL READ COMMITTED
 
-DECLARE @UserName NVARCHAR(100) = 'awaite'
+-- Set the user name below and run.
+DECLARE @UserName NVARCHAR(100) = 'awaite' -- user "awaite" is a good test user, FI=ICCU, Env=Red14
+
 DECLARE @UserIdentifier UNIQUEIDENTIFIER
 DECLARE @UserID BIGINT
 
@@ -11,7 +17,7 @@ SELECT top 1
 , @UserID=u.ID
 FROM
   core.Users u with (nolock)
-  JOIN core.STSProviderUser sts ON sts.UserId = u.id
+  JOIN core.STSProviderUser sts (nolock) ON sts.UserId = u.id
 WHERE 1=1
   and sts.stsid = @UserName
 
@@ -28,6 +34,8 @@ select top 100
 , u.ID
 , u.UserIdentifier
 , u.BankID
+, b.BankIdentifier
+, b.[Name] as BankName
 , u.FirstName
 , u.LastName
 , u.DisplayName
@@ -40,7 +48,8 @@ select top 100
 , u.ACHDisclosureAccepted
 from
   core.Users u with (nolock)
-  JOIN core.STSProviderUser sts ON sts.UserId = u.id
+  JOIN core.STSProviderUser sts (nolock) ON sts.UserId = u.id
+  JOIN core.bank b (nolock) on b.id = u.BankID
 where 1=1
   and u.ID = @UserID
 

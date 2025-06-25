@@ -1,0 +1,330 @@
+// Local
+
+GET https://local.dev.alkamitech.com:5003/afx/v2/packages/3107/devices/Mobile/widgets
+accept: application/json
+accept-language: en-US;q=1.0,*;q=0.1
+Authorization: Bearer eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJiYW5rIjoiNzg1NTQ1NzctOWRlNi00M2NkLTkwODUtNTg2ODk3NzE1NmQxIiwiaW5zdCI6Ijc4NTU0NTc3LTlkZTYtNDNjZC05MDg1LTU4Njg5NzcxNTZkMSIsInVybCI6ImRldmVsb3Blci5kZXYuYWxrYW1pdGVjaC5jb20iLCJiaWQiOiIzMCIsInNpZCI6Ijg4Y2ZkZWYxLTkwZTYtNGZiMC04NzY4LTljMTZlNjQ2OWQzYyIsInJvbGVzIjpbIlJldGFpbCIsIlRlbmFudFVzZXIiXSwic3ViIjoiNzNiMGJhMDMtODY1ZC00YzE3LTg1ZDMtYjI1ZThiNDBkMzFmIiwidWlkIjoiNDg1OSIsIm5iZiI6MTc0NzM0MDk3OSwiZXhwIjoxNzQ3MzQxNTc5LCJhdWQiOiJhbGthbWkubmV0IiwiaXNzIjoiYWxrYW1pLm5ldCJ9.
+
+// en-US;q=1.0,*;q=0.1+
+// es-US;q=1.0,en-US;q=1.0,*;q=0.1
+// bg-BG;q=1.0
+
+
+GET https://local.dev.alkamitech.com:5003/afx/v2/packages/3107/devices/Mobile/widgets
+accept: application/json
+accept-language: es-US;q=1.0,en-US;q=1.0,*;q=0.1
+Authorization: Bearer eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJiYW5rIjoiNzg1NTQ1NzctOWRlNi00M2NkLTkwODUtNTg2ODk3NzE1NmQxIiwiaW5zdCI6Ijc4NTU0NTc3LTlkZTYtNDNjZC05MDg1LTU4Njg5NzcxNTZkMSIsInVybCI6ImRldmVsb3Blci5kZXYuYWxrYW1pdGVjaC5jb20iLCJiaWQiOiIzMCIsInNpZCI6Ijg4Y2ZkZWYxLTkwZTYtNGZiMC04NzY4LTljMTZlNjQ2OWQzYyIsInJvbGVzIjpbIlJldGFpbCIsIlRlbmFudFVzZXIiXSwic3ViIjoiNzNiMGJhMDMtODY1ZC00YzE3LTg1ZDMtYjI1ZThiNDBkMzFmIiwidWlkIjoiNDg1OSIsIm5iZiI6MTc0NzM0MDk3OSwiZXhwIjoxNzQ3MzQxNTc5LCJhdWQiOiJhbGthbWkubmV0IiwiaXNzIjoiYWxrYW1pLm5ldCJ9.
+
+
+// RED 14
+
+GET https://iccu-red14.dev.alkamitech.com/afx/v2/packages/3107/devices/mobile/widgets
+content-type:application/json
+authorization:Bearer c983ef4d-3afd-4592-93f8-a88201e9c242
+accept-language:en-US;q=1.0,*;q=0.1
+user-agent:Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_arm64 Build/TE1A.240213.009) ICCU/1.25001 NATIVEAPP NATIVEMENU
+
+HTTP/1.1 200 OK
+Date: Wed, 14 May 2025 15:09:14 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+x-envoy-upstream-service-time: 30
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-SVR: WEB2714128
+
+{
+  "results": [
+    {
+      "widgetName": "FicoScore",
+      "displayName": "FicoScore",
+      "url": "/Mobile/FicoScore"
+    },
+    {
+      "widgetName": "Greenlight",
+      "displayName": "Greenlight",
+      "url": "/Mobile/Greenlight"
+    },
+    {
+      "widgetName": "SavvyMoney",
+      "displayName": "Credit Score and Report",
+      "url": "/Mobile/SavvyMoney"
+    },
+    {
+      "widgetName": "AccountLinking",
+      "displayName": "AccountLinking",
+      "url": "/Mobile/AccountLinking"
+    },
+    {
+      "widgetName": "Dispute",
+      "displayName": "Dispute",
+      "url": "/Mobile/Dispute"
+    },
+    {
+      "widgetName": "NotificationSettings",
+      "displayName": "Alerts",
+      "url": "/Mobile/NotificationSettings"
+    },
+    {
+      "widgetName": "FinancialWellness",
+      "displayName": "Financial Wellness",
+      "url": "/Mobile/FinancialWellness"
+    },
+    {
+      "widgetName": "Aggregation",
+      "displayName": "Aggregation",
+      "url": "/Mobile/Aggregation"
+    },
+    {
+      "widgetName": "BusinessReports",
+      "displayName": "Business Reports",
+      "url": "/Mobile/BusinessReports"
+    },
+    {
+      "widgetName": "BusinessAdmin",
+      "displayName": "Business Admin",
+      "url": "/Mobile/BusinessAdmin"
+    },
+    {
+      "widgetName": "BusinessACH",
+      "displayName": "Business ACH",
+      "url": "/Mobile/BusinessACH"
+    },
+    {
+      "widgetName": "VideoChat",
+      "displayName": "VideoChat",
+      "url": "/Mobile/VideoChat"
+    },
+    {
+      "widgetName": "AvokaSso",
+      "displayName": "Open a New Account",
+      "url": "/Mobile/AvokaSso"
+    },
+    {
+      "widgetName": "BillPayV2",
+      "displayName": "Bill Pay",
+      "url": "/Mobile/BillPayV2"
+    },
+    {
+      "widgetName": "ManageCardsSSO",
+      "displayName": "CardControl",
+      "url": "/Mobile/ManageCardsSSO"
+    },
+    {
+      "widgetName": "CardRewards",
+      "displayName": "Visa Rewards",
+      "url": "/Mobile/CardRewards"
+    },
+    {
+      "widgetName": "TransferV2",
+      "displayName": "Transfers",
+      "url": "/Mobile/TransferV2"
+    },
+    {
+      "widgetName": "eDocs",
+      "displayName": "eDocuments",
+      "url": "/Mobile/eDocs"
+    },
+    {
+      "widgetName": "MyAccountsV2",
+      "displayName": "Accounts",
+      "url": "/Mobile/MyAccountsV2"
+    },
+    {
+      "widgetName": "Locations",
+      "displayName": "Locations",
+      "url": "/Mobile/Locations"
+    },
+    {
+      "widgetName": "RemoteDeposit",
+      "displayName": "Make a Deposit",
+      "url": "/Mobile/RemoteDeposit"
+    },
+    {
+      "widgetName": "BillPay",
+      "displayName": "Bill Pay",
+      "url": "/Mobile/BillPay"
+    },
+    {
+      "widgetName": "Budgets",
+      "displayName": "Budgets",
+      "url": "/Mobile/Budgets"
+    },
+    {
+      "widgetName": "DraftServices",
+      "displayName": "Check Services",
+      "url": "/Mobile/DraftServices"
+    },
+    {
+      "widgetName": "SavingsGoals",
+      "displayName": "Savings Goals",
+      "url": "/Mobile/SavingsGoals"
+    },
+    {
+      "widgetName": "MessageCenter",
+      "displayName": "Message Center",
+      "url": "/Mobile/MessageCenter"
+    }
+  ]
+}
+
+
+GET https://iccu-red14.dev.alkamitech.com/afx/v2/packages/3107/devices/mobile/widgets
+content-type:application/json
+authorization:Bearer c983ef4d-3afd-4592-93f8-a88201e9c242
+accept-language:es-US;q=1.0,en-US;q=1.0,*;q=0.1
+user-agent:Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_arm64 Build/TE1A.240213.009) ICCU/1.25001 NATIVEAPP NATIVEMENU
+
+HTTP/1.1 200 OK
+Date: Wed, 14 May 2025 15:10:05 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+x-envoy-upstream-service-time: 17
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-SVR: WEB2714128
+
+{
+  "results": [
+    {
+      "widgetName": "FicoScore",
+      "displayName": "FicoScore",
+      "url": "/Mobile/FicoScore"
+    },
+    {
+      "widgetName": "Greenlight",
+      "displayName": "Greenlight",
+      "url": "/Mobile/Greenlight"
+    },
+    {
+      "widgetName": "SavvyMoney",
+      "displayName": "Credit Score and Report",
+      "url": "/Mobile/SavvyMoney"
+    },
+    {
+      "widgetName": "AccountLinking",
+      "displayName": "AccountLinking",
+      "url": "/Mobile/AccountLinking"
+    },
+    {
+      "widgetName": "Dispute",
+      "displayName": "Dispute",
+      "url": "/Mobile/Dispute"
+    },
+    {
+      "widgetName": "NotificationSettings",
+      "displayName": "Alertas",
+      "url": "/Mobile/NotificationSettings"
+    },
+    {
+      "widgetName": "FinancialWellness",
+      "displayName": "Financial Wellness",
+      "url": "/Mobile/FinancialWellness"
+    },
+    {
+      "widgetName": "Aggregation",
+      "displayName": "Aggregation",
+      "url": "/Mobile/Aggregation"
+    },
+    {
+      "widgetName": "BusinessReports",
+      "displayName": "Business Reports",
+      "url": "/Mobile/BusinessReports"
+    },
+    {
+      "widgetName": "BusinessAdmin",
+      "displayName": "Business Admin",
+      "url": "/Mobile/BusinessAdmin"
+    },
+    {
+      "widgetName": "BusinessACH",
+      "displayName": "Business ACH",
+      "url": "/Mobile/BusinessACH"
+    },
+    {
+      "widgetName": "VideoChat",
+      "displayName": "VideoChat",
+      "url": "/Mobile/VideoChat"
+    },
+    {
+      "widgetName": "AvokaSso",
+      "displayName": "Open a New Account",
+      "url": "/Mobile/AvokaSso"
+    },
+    {
+      "widgetName": "BillPayV2",
+      "displayName": "Bill Pay",
+      "url": "/Mobile/BillPayV2"
+    },
+    {
+      "widgetName": "ManageCardsSSO",
+      "displayName": "CardControl",
+      "url": "/Mobile/ManageCardsSSO"
+    },
+    {
+      "widgetName": "CardRewards",
+      "displayName": "Recompensas Visa",
+      "url": "/Mobile/CardRewards"
+    },
+    {
+      "widgetName": "TransferV2",
+      "displayName": "Transferencias",
+      "url": "/Mobile/TransferV2"
+    },
+    {
+      "widgetName": "eDocs",
+      "displayName": "Documentos Electrónicos",
+      "url": "/Mobile/eDocs"
+    },
+    {
+      "widgetName": "MyAccountsV2",
+      "displayName": "Cuentas",
+      "url": "/Mobile/MyAccountsV2"
+    },
+    {
+      "widgetName": "Locations",
+      "displayName": "Sucursales",
+      "url": "/Mobile/Locations"
+    },
+    {
+      "widgetName": "RemoteDeposit",
+      "displayName": "Haga un Depósito",
+      "url": "/Mobile/RemoteDeposit"
+    },
+    {
+      "widgetName": "BillPay",
+      "displayName": "Bill Pay",
+      "url": "/Mobile/BillPay"
+    },
+    {
+      "widgetName": "Budgets",
+      "displayName": "Budgets",
+      "url": "/Mobile/Budgets"
+    },
+    {
+      "widgetName": "DraftServices",
+      "displayName": "Servicios de Cheques",
+      "url": "/Mobile/DraftServices"
+    },
+    {
+      "widgetName": "SavingsGoals",
+      "displayName": "Metas de Ahorro",
+      "url": "/Mobile/SavingsGoals"
+    },
+    {
+      "widgetName": "MessageCenter",
+      "displayName": "Centro de Mensajes",
+      "url": "/Mobile/MessageCenter"
+    }
+  ]
+}
+
+
+
+
